@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-I'm a student at the University of Kentucky!
-#### 🌱 I’m currently learning ...
-How to use Github (I'm confused)
-
 <!--
 **wjyyang24/wjyyang24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
