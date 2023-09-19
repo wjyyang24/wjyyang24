@@ -2,9 +2,6 @@
 
 I'm a student at the University of Kentucky!
 
-#### 🌱 I’m currently learning ...
-How to use Github (I'm confused)
-
 #### 🔭 I’m currently working on ...
 Finding a co-op for the spring 2024 semester!
 
