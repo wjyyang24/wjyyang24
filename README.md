@@ -2,8 +2,11 @@
 
 I'm a student at the University of Kentucky!
 
+#### 🌱 I’m currently learning ...
+Computer Security, Data Science, Bioinformatics, Rust
+
 #### 🔭 I’m currently working on ...
-Finding a co-op for the spring 2024 semester!
+Gaining experience for an internship
 
 <!--
 **wjyyang24/wjyyang24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
