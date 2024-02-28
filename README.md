@@ -6,7 +6,7 @@ I'm a student at the University of Kentucky!
 Computer Security, Data Science, Bioinformatics, Rust
 
 #### 🔭 I’m currently working on ...
-Gaining experience for an internship
+Resume building
 
 <!--
 **wjyyang24/wjyyang24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
