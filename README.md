@@ -1,12 +1,9 @@
 ### Hi there 👋
 
-I'm a student at the University of Kentucky!
+I'm a former student of the University of Kentucky! I graduated in the spring of 2024 with a B.S. in computer science.
 
 #### 🌱 I’m currently learning ...
-Computer Security, Data Science, Bioinformatics, Rust
-
-#### 🔭 I’m currently working on ...
-Resume building
+CCNA, Rust, Linux
 
 <!--
 **wjyyang24/wjyyang24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
